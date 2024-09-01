@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(to bottom, #f5c3e9, #b90909);
+}
+div {
+    text-align: center;
+    vertical-align: middle;
+}
+h1 {
+    color: #b90909;
+}
+#yesButton {
+    background-color: #06d6a0;
+    transition: transform 0.3s;
+    margin-right: 10px;
+    width: 120px;
+    font-size: 30px;
+    height: 40px;
+    color: #fff;
+    margin-left: -140px;
+}
+#no {
+    position: absolute;
+    background-color: #b90909;
+    transition: transform 0.3s;
+    margin-left: 10px;
+    width: 120px;
+    /* font-size: 30px; */
+    height: 40px;
+    color: #fff;
+}
