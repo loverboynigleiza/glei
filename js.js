@@ -9,7 +9,7 @@ var no = document.getElementById("no");
 var valentineImage = document.getElementById("valentineImage");
 
 var noTexts = ["weh?", "sure ka?", "ge ok lang", "di mo ako mahal?", "ahahahaha sakit", "ge dyan kana"];
-var imageSources = ["patchu.jpg", "bleh.jpg", "patchu.jpg", "bleh.jpg"];
+var imageSources = ["patchu.jpg", "bleh.jpg"];
 
 no.addEventListener("click", change);
 
