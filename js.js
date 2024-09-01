@@ -9,7 +9,7 @@ var no = document.getElementById("no");
 var valentineImage = document.getElementById("valentineImage");
 
 var noTexts = ["weh?", "sure ka?", "ge ok lang", "di mo ako mahal?", "ahahahaha sakit", "ge dyan kana"];
-var imageSources = ["file:///C:/Users/nepacina/Downloads/455085130_1545069256157059_903213063027932807_n.jpg", "file:///C:/Users/nepacina/Downloads/456083534_305789235929731_8738354535614954550_n.jpg", "file:///C:/Users/nepacina/Downloads/455085130_1545069256157059_903213063027932807_n.jpg", "file:///C:/Users/nepacina/Downloads/455085130_1545069256157059_903213063027932807_n.jpg"];
+var imageSources = ["patchu.jpg", "bleh.jpg", "patchu.jpg", "bleh.jpg"];
 
 no.addEventListener("click", change);
 
